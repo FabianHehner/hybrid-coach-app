@@ -1,0 +1,16 @@
+{
+  "name": "Hybrid Coach",
+  "short_name": "Coach",
+  "description": "Trainingsplanung und Auto-Regulation auf Basis von intervals.icu",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F0E8",
+  "theme_color": "#F5F0E8",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
